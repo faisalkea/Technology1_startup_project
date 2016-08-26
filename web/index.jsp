@@ -20,6 +20,7 @@
     <!--  Then call the init function, which is defined in hello.js -->
     <script src="https://apis.google.com/js/client.js?onload=init"></script>
 
+    <!-- Reference my style sheet, placed under WEB-INF. -->
     <link rel="stylesheet" type="text/css" href="mystyle.css">
 
 </head>

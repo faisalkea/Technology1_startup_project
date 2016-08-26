@@ -12,6 +12,7 @@ import java.util.logging.Logger;
 /**
  * Created by faisaljarkass on 19/08/16.
  * mvn appengine:update
+ * mvn appengine:devserver
  */
 public class MyServlet extends HttpServlet {
 
